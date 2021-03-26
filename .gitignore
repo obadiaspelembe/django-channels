@@ -1,0 +1,9 @@
+*.pyc
+.venv
+venv
+env
+htdocs
+lib
+*.sqlite3
+.env
+.vscode
